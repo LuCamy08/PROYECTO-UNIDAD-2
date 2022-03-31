@@ -1,0 +1,13 @@
+body{
+    background-image: url(compu.webp);
+}
+
+.form-register .botons{
+    width: 100px;
+    background: #000cb8;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}

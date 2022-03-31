@@ -1,0 +1,46 @@
+body{
+    background-image: url(fondito.webp);
+}
+.botons{
+    width: 100px;
+    background: #da08cf;
+    border: none;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+    font-style: bold;
+}
+
+.botons1{
+    width: 100px;
+    background: #89ff03;
+    border: none;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+    font-style: bold;
+}
+
+.botons2{
+    width: 100px;
+    background: #0ce3ff;
+    border: none;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+    font-style: bold;
+}
+
+.botons3{
+    width: 300px;
+    background: #0077ff;
+    border: none;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    margin: 16px 0;
+    font-size: 16px;
+    font-style: bold;
+}
