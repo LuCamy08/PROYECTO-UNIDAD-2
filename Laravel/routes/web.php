@@ -13,6 +13,10 @@ use App\Http\Controllers\RegistroController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+//regd
+Route::get({
+
+});
 
 Route::get('/', function () {
     return view('welcome');
